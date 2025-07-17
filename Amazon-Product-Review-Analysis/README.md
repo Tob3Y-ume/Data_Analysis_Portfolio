@@ -33,25 +33,25 @@ The dataset contains information scraped from Amazon product pages, including:
 
 ## 📸 Key Visuals
 
-### 📊 Average Discount by Category  
-![Average Discount](./visuals/discount_by_category.png)
+### 📊 First Dashboard Page  
+![Average Discount](./visuals/Page-01_Amazon_Product_Review_Dashboards.png)
 
-### 📈 Rating Distribution  
-![Rating Distribution](./visuals/product_rating_distribution.png)
+### 📈 Second Dashboard Page  
+![Rating Distribution](./visuals/Page-02_Amazon_Product_Review_Dashboards.png)
 
-### 💰 Price vs Number of Reviews  
-![Price vs Reviews](./visuals/price_vs_reviews.png)
-
-### 🏆 Top 5 Products  
-![Top 5 Products](./visuals/top5_products.png)
+### 💰 Third Dashboard Page  
+![Price vs Reviews](./visuals/Page-03_Amazon_Product_Review_Dashboards.png)
 
 ---
 
 ## 📎 Files
-- Amazon_Review_Analysis.xlsx
-- Dataset.csv (if allowed to share)
+- Amazon_Product_Review_initial-file.xlsx
+- Amazon_Case_Study_semi-cleaned.xlsx
+- Folder with some visuals _check .pbix file using MS Power BI to see complete model_
+- README.md file
 
 ---
 
 ## 🧰 Tools Used
-- Microsoft Excel (Pivot Tables, Calculated Columns, Charts)
+- Microsoft Excel (for preliminary data cleaning)
+- Microsoft Power BI (for the rest of the analysis)
